@@ -1,0 +1,4 @@
+[build]
+  base = "katering-jakarta"
+  command = "next build"
+  publish = ".next"
